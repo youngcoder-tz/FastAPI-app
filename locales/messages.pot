@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wajibika 1.0\n"
+"POT-Creation-Date: 2025-04-15 21:11+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Welcome to Wajibika"
+msgstr ""
+
+msgid "Describe your issue..."
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Your submission was received"
+msgstr ""
+
+msgid "Please try again later"
+msgstr ""

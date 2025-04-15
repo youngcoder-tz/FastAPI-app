@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+alembic
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib
+pydantic[email]
+python-multipart
+polib
+lingua-language-detector
+transformers
+torch
+whisper-ctranslate2==0.5.2

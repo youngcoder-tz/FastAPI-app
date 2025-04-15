@@ -1,0 +1,18 @@
+<div aria-live="polite" id="screenreader-alerts">
+    <!-- Dynamic updates for screen readers -->
+  </div>
+  
+  <button 
+    id="accessibility-toggle"
+    aria-label="Toggle accessibility mode"
+    onclick="toggleHighContrast()">
+    <i class="fa fa-universal-access"></i>
+  </button>
+  
+  <script>
+  function speakContent(text) {
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = document.documentElement.lang;
+      window.speechSynthesis.speak(utterance);
+  }
+  </script>
